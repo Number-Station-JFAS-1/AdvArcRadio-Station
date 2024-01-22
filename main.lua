@@ -9,12 +9,10 @@ local MainModule = {
 		"ambient/levels/prison/radio_random6.wav";
 		"ambient/levels/prison/radio_random7.wav";
 	};
-	["SpecialRandom1"] = 1;
-	["SpecialRandom2"] = 100;
-	["SpecialChance"] = 50;
-	["MainRandom1"] = 1;
-	["MainRandom2"] = 100;
-	["MainChance"] = 25;
+
+--[[	["Modules"] = {
+		"STORY/gm13/"
+	};]]
 }
 
 return MainModule
