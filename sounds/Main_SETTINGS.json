@@ -1,0 +1,70 @@
+{
+    "T1": {
+        "Test1": {
+            "Mode": "Random",
+            "Data": [
+                "/Sound1.wav",
+                "/Sound2.wav",
+                "/Sound3.wav"
+            ]
+        },
+        "Test2": {
+            "Mode": "Chance",
+            "Random1": 1,
+            "Random2": 100,
+            "Chance": 50,
+            "Data": [
+                "/Sound1.wav",
+                "/Sound2.wav",
+                "/Sound3.wav"
+            ]
+        }
+    },
+    "T2": {
+        "Test1": {
+            "Mode": "Random",
+            "Data": [
+                "/Sound1.wav",
+                "/Sound2.wav",
+                "/Sound3.wav"
+            ]
+        },
+        "Test2": {
+            "Mode": "Chance",
+            "Random1": 1,
+            "Random2": 100,
+            "Chance": 50,
+            "Data": [
+                "/Sound1.wav",
+                "/Sound2.wav",
+                "/Sound3.wav"
+            ]
+        }
+    },
+    "T3": {
+        "Test1": {
+            "Mode": "Random",
+            "Data": [
+                "/Sound1.wav",
+                "/Sound2.wav",
+                "/Sound3.wav"
+            ]
+        },
+        "Test2": {
+            "Mode": "Chance",
+            "Random1": 1,
+            "Random2": 100,
+            "Chance": 50,
+            "Data": [
+                "/Sound1.wav",
+                "/Sound2.wav",
+                "/Sound3.wav"
+            ]
+        }
+    },
+    "Weights": {
+        "T1": 10,
+        "T2": 5,
+        "T3": 1
+    }
+}
