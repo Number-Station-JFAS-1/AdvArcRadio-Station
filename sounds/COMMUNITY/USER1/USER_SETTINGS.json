@@ -1,0 +1,14 @@
+{
+    "T1": {
+      "Mode": "Random",
+      "Random1": 50,
+      "Random2": 1,
+      "Chance": 10,
+      "Data": [
+        "/EKG.wav",
+        "/AQRF.wav",
+        "/ARC.wav",
+        "/Eagle_Detector.wav"
+      ]
+    }
+}
