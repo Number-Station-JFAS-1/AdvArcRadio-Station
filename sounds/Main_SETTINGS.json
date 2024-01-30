@@ -1,6 +1,6 @@
 {
     "T1": {
-        "Test1": {
+        "T1-Test1-Random": {
             "Mode": "Random",
             "Data": [
                 "/Sound1.wav",
@@ -8,7 +8,7 @@
                 "/Sound3.wav"
             ]
         },
-        "Test2": {
+        "T1-Test2-Chance": {
             "Mode": "Chance",
             "Random1": 1,
             "Random2": 100,
@@ -21,7 +21,7 @@
         }
     },
     "T2": {
-        "Test1": {
+        "T2-Test1-Random": {
             "Mode": "Random",
             "Data": [
                 "/Sound1.wav",
@@ -29,7 +29,7 @@
                 "/Sound3.wav"
             ]
         },
-        "Test2": {
+        "T1-Test2-Chance": {
             "Mode": "Chance",
             "Random1": 1,
             "Random2": 100,
@@ -42,7 +42,7 @@
         }
     },
     "T3": {
-        "Test1": {
+        "T3-Test1-Random": {
             "Mode": "Random",
             "Data": [
                 "/Sound1.wav",
@@ -50,7 +50,7 @@
                 "/Sound3.wav"
             ]
         },
-        "Test2": {
+        "T3-Test2-Chance": {
             "Mode": "Chance",
             "Random1": 1,
             "Random2": 100,
